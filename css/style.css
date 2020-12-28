@@ -620,7 +620,7 @@ body.offcanvas {
         color: #fff; }
     .project .desc span {
       display: block;
-      color: #999999;
+      color: #ffffff;
       font-size: 13px;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
       -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
